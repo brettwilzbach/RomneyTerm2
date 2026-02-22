@@ -135,6 +135,8 @@ Don't defend the 19.6% as sustainable. Reframe the conversation.
 2. "Why should we pay 20% carry when we can buy CLO ETFs for 45 basis points?"
    Answer: "CLO ETFs give you AAA tranches yielding 4.5-5.5%. We give you the full capital structure — CLO equity, mezzanine debt, and multi-sector structured credit — yielding 8.6% net over 12 years. The question is what return profile you're solving for. If you want CLO beta, buy JAAA. If you want alpha from active management across the structured credit spectrum, that's what we do."
 
+   **Manager Selection Angle (vs ETFs and single-manager funds):** Manager outcomes in structured credit are dispersed, especially outside the top cohort. An ETF or single-manager fund concentrates that risk. Broad exposure across 83 managers reduces single-manager blowup risk and creates more opportunities for active selection alpha. The fee pays for access to the full manager universe, not just one slice of it.
+
 3. "How does this compare to Cliffwater's interval fund at the same fee?"
    Answer: "Cliffwater CCLFX is direct lending. Different risk, different return driver, different correlation profile. We're structured credit — CLO equity, CLO debt, ABS, RMBS. The strategies are complementary, not competitive. Many allocators hold both."
 
