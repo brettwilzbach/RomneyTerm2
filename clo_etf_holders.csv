@@ -1,0 +1,204 @@
+ticker,holder_name,portfolio_name,source,amount_held,pct_outstanding,latest_change,filing_date,institution_type,country,metro_area,etf_label,ticker_raw
+JAAA US Equity,Bank of America Corp,Bank of America Corp,13F,30177764.0,5.64,-4507882.0,2025-12-31,Bank,United States,Charlotte,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Allianz SE,,ULT-AGG,26360832.0,4.92,26360832.0,2025-12-31,Investment Advisor,Germany,Munich,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Allianz Investment M,Allianz Investment M,13F,25923332.0,4.84,7212832.0,2025-09-30,Investment Advisor,United States,Minneapolis/St. Paul,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Teachers Insurance &,,ULT-AGG,23706000.0,4.43,15190000.0,2025-09-30,Investment Advisor,United States,New York City/Southern CT/Northern NJ,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Morgan Stanley,,ULT-AGG,20616010.0,3.85,-1898377.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,LPL Financial LLC,LPL Financial LLC,13F,13272736.0,2.48,405363.0,2025-12-31,Brokerage,United States,Boston,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Focus Partners Wealt,Focus Partners Wealt,13F,8228884.0,1.54,8196112.0,2025-12-31,Hedge Fund Manager,United States,Boston,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Wells Fargo & Co,,ULT-AGG,7457715.0,1.39,-674298.0,2025-12-31,Bank,United States,San Francisco/San Jose,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Bain Capital Private,,ULT-AGG,7010365.0,1.31,-471532.0,2025-12-31,Private Equity,United States,Boston,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Raymond James Financ,Raymond James Financ,13F,6915950.0,1.29,108380.0,2025-12-31,Investment Advisor,United States,Tampa,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,UBS AG,,ULT-AGG,6560250.0,1.23,80567.0,2025-12-31,Investment Advisor,Switzerland,Zurich,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Barings LLC,Barings LLC,13F,6000000.0,1.12,0.0,2025-12-31,Investment Advisor,United States,Boston,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Massachusetts Mutual,,ULT-AGG,6000000.0,1.12,6000000.0,2025-09-30,Insurance Company,United States,Hartford,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Sage Mountain Adviso,Sage Mountain Adviso,13F,5018296.0,0.94,1278966.0,2025-12-31,Investment Advisor,United States,Atlanta,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Genstar Capital LLC,,ULT-AGG,4850865.0,0.91,475447.0,2025-12-31,Private Equity,United States,San Francisco/San Jose,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Royal Bank of Canada,,ULT-AGG,4687709.0,0.88,137388.0,2025-12-31,Bank,Canada,Toronto,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,HighTower Advisors L,HighTower Advisors L,13F,4140505.0,0.77,32353.0,2025-12-31,Investment Advisor,United States,Chicago,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Goldman Sachs Group,,ULT-AGG,4121494.0,0.77,25691.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Arch Capital Group L,Arch Capital Group L,13F,3941665.0,0.74,0.0,2025-12-31,Insurance Company,Bermuda,Hamilton,JAAA (Janus AAA CLO),JAAA
+JAAA US Equity,Charles Schwab Corp/,,ULT-AGG,3712944.0,0.69,83512.0,2025-12-31,Brokerage,United States,San Francisco/San Jose,JAAA (Janus AAA CLO),JAAA
+JBBB US Equity,LPL Financial LLC,LPL Financial LLC,13F,982717.0,4.09,-130669.0,2025-12-31,Brokerage,United States,Boston,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Pathstone Holdings L,Pathstone Holdings L,13F,537351.0,2.23,-18929.0,2025-12-31,Hedge Fund Manager,United States,New York City/Southern CT/Northern NJ,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Pallas Capital Advis,Pallas Capital Advis,13F,481561.0,2.0,45710.0,2025-12-31,Investment Advisor,United States,Boston,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Jane Street Group LL,Jane Street Group LL,13F,462988.0,1.93,184246.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,JPMorgan Chase & Co,JPMorgan Chase & Co,13F,410556.0,1.71,307238.0,2025-12-31,Bank,United States,New York City/Southern CT/Northern NJ,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,UBS AG,,ULT-AGG,309049.0,1.29,-53987.0,2025-12-31,Investment Advisor,Switzerland,Zurich,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Wealth Enhancement G,,ULT-AGG,290103.0,1.21,13754.0,2025-12-31,Holding Company,United States,Minneapolis/St. Paul,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,TT Capital Managemen,TT Capital Managemen,13F,287529.0,1.2,74.0,2025-12-31,Investment Advisor,United States,San Diego,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,RWM Asset Management,RWM Asset Management,13F,280791.0,1.17,4807.0,2025-12-31,Investment Advisor,United States,Orlando,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,EPIQ Partners LLC,EPIQ Partners LLC,13F,253957.0,1.06,8679.0,2025-12-31,Investment Advisor,United States,Minneapolis/St. Paul,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,AE Wealth Management,AE Wealth Management,13F,211455.0,0.88,66010.0,2025-12-31,Investment Advisor,United States,Kansas City,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Border to Coast Pens,Border to Coast Pens,13F,200000.0,0.83,0.0,2025-12-31,Pension Fund,United Kingdom,Manchester,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Bain Capital Private,,ULT-AGG,198435.0,0.83,-81680.0,2025-12-31,Private Equity,United States,Boston,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Sanctuary Advisors L,Sanctuary Advisors L,13F,193508.0,0.8,8757.0,2025-12-31,Investment Advisor,United States,Indianapolis,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Ameriprise Financial,,ULT-AGG,189578.0,0.79,2678.0,2025-12-31,Insurance Company,United States,Unclassified,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,WT Wealth Management,WT Wealth Management,13F,181605.0,0.76,-50618.0,2025-12-31,Investment Advisor,United States,Unclassified,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Summit Financial LLC,Summit Financial LLC,13F,176179.0,0.73,14211.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Goldman Sachs Group,,ULT-AGG,174741.0,0.73,-432883.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Nilsine Partners LLC,Nilsine Partners LLC,13F,153226.0,0.64,18283.0,2025-12-31,Investment Advisor,United States,Denver,JBBB (Janus B-BBB CLO),JBBB
+JBBB US Equity,Cachetech Inc,Cachetech Inc,13F,152080.0,0.63,-526006.0,2025-12-31,Investment Advisor,United States,Salt Lake City,JBBB (Janus B-BBB CLO),JBBB
+AAA US Equity,Jane Street Group LL,Jane Street Group LL,13F,70539.0,4.15,30334.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Cambridge Investment,Cambridge Investment,13F,27669.0,1.63,-4568.0,2025-12-31,Brokerage,United States,Unclassified,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Philadelphia Financi,Multiple Portfolios,Sch-D,23137.0,1.36,0.0,2025-09-30,Insurance Company,United States,Philadelphia,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Legacy Capital Group,Legacy Capital Group,13F,20670.0,1.22,-1544.0,2025-12-31,Investment Advisor,United States,San Francisco/San Jose,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Procyon Advisors LLC,Procyon Advisors LLC,13F,12980.0,0.76,-200.0,2025-12-31,Investment Advisor,United States,Hartford,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Royal Bank of Canada,,ULT-AGG,4977.0,0.29,-9595.0,2025-12-31,Bank,Canada,Toronto,AAA (Virtus AAA CLO),AAA
+AAA US Equity,International Assets,International Assets,13F,3590.0,0.21,3590.0,2025-12-31,Investment Advisor,United States,Orlando,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Corecap Advisors LLC,Corecap Advisors LLC,13F,2173.0,0.13,0.0,2025-12-31,Investment Advisor,United States,Detroit,AAA (Virtus AAA CLO),AAA
+AAA US Equity,BERRY ROCK INS CO,Multiple Portfolios,Sch-D,500.0,0.03,0.0,2025-06-30,Insurance Company,United States,Oklahoma City,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Flow Traders US LLC,Flow Traders US LLC,13F,0.0,0.0,-25870.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Harbour Investments,Harbour Investments,13F,0.0,0.0,-1594.0,2025-12-31,Brokerage,United States,Milwaukee/Madison,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Aptus Capital Adviso,Aptus Capital Adviso,13F,0.0,0.0,-25792.0,2025-12-31,Investment Advisor,United States,Unclassified,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Osaic Holdings Inc,Osaic Holdings Inc,13F,0.0,0.0,-1000.0,2025-12-31,Investment Advisor,United States,Phoenix,AAA (Virtus AAA CLO),AAA
+AAA US Equity,Citadel Advisors LLC,Citadel Advisors LLC,13F,0.0,0.0,-44374.0,2025-12-31,Hedge Fund Manager,United States,Chicago,AAA (Virtus AAA CLO),AAA
+CLOI US Equity,LPL Financial LLC,LPL Financial LLC,13F,2027584.0,7.83,419749.0,2025-12-31,Brokerage,United States,Boston,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Independence Asset A,Independence Asset A,13F,1589919.0,6.14,17203.0,2025-12-31,Hedge Fund Manager,United States,Philadelphia,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Capital Investment A,Capital Investment A,13F,1563732.0,6.04,129592.0,2025-12-31,Investment Advisor,United States,Atlanta,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Syon Capital LLC,Syon Capital LLC,13F,668090.0,2.58,-635.0,2025-12-31,Investment Advisor,United States,San Francisco/San Jose,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Orion Portfolio Solu,ORION PORFOLIO SOLUT,13F,607560.0,2.35,-16269.0,2025-12-31,Investment Advisor,United States,Omaha,CLOI (VanEck CLO),CLOI
+CLOI US Equity,SAX Wealth Advisors,SAX Wealth Advisors,13F,362439.0,1.4,96310.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOI (VanEck CLO),CLOI
+CLOI US Equity,True Private Wealth,True Private Wealth,13F,357729.0,1.38,21230.0,2025-12-31,Investment Advisor,United States,Portland (OR),CLOI (VanEck CLO),CLOI
+CLOI US Equity,HighTower Advisors L,HighTower Advisors L,13F,321035.0,1.24,6703.0,2025-12-31,Investment Advisor,United States,Chicago,CLOI (VanEck CLO),CLOI
+CLOI US Equity,WealthPlan Investmen,WealthPlan Investmen,13F,282187.0,1.09,-41589.0,2025-12-31,Investment Advisor,United States,Omaha,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Deseret Mutual Benef,Deseret Mutual Benef,13F,277556.0,1.07,-13691.0,2025-12-31,Insurance Company,United States,Salt Lake City,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Goldman Sachs Group,,ULT-AGG,270211.0,1.04,106212.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Gradient Investments,Gradient Investments,13F,267392.0,1.03,2009.0,2025-12-31,Investment Advisor,United States,Minneapolis/St. Paul,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Darwin Wealth Manage,Darwin Wealth Manage,13F,259273.0,1.0,5595.0,2025-12-31,Investment Advisor,United States,Tampa,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Axxcess Wealth Manag,Axxcess Wealth Manag,13F,255648.0,0.99,255648.0,2025-12-31,Investment Advisor,United States,San Diego,CLOI (VanEck CLO),CLOI
+CLOI US Equity,AE Wealth Management,AE Wealth Management,13F,244329.0,0.94,17325.0,2025-12-31,Investment Advisor,United States,Kansas City,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Moneta Group Investm,Moneta Group Investm,13F,229940.0,0.89,10598.0,2025-12-31,Investment Advisor,United States,Saint Louis,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Employees Retirement,Employees Retirement,13F,226600.0,0.87,226600.0,2025-12-31,401k,United States,Dallas/Ft. Worth,CLOI (VanEck CLO),CLOI
+CLOI US Equity,TLP Associates LLC,TLP Associates LLC,13F,205946.0,0.8,-1931.0,2025-12-31,Hedge Fund Manager,United States,Boston,CLOI (VanEck CLO),CLOI
+CLOI US Equity,MML Investors Servic,MML Investors Servic,13F,194165.0,0.75,1072.0,2025-12-31,Brokerage,United States,Hartford,CLOI (VanEck CLO),CLOI
+CLOI US Equity,Cambridge Investment,Cambridge Investment,13F,185721.0,0.72,18706.0,2025-12-31,Brokerage,United States,Unclassified,CLOI (VanEck CLO),CLOI
+CLOA US Equity,Bain Capital Private,,ULT-AGG,1886660.0,6.21,564357.0,2025-12-31,Private Equity,United States,Boston,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,LPL Financial LLC,LPL Financial LLC,13F,1731327.0,5.7,197443.0,2025-12-31,Brokerage,United States,Boston,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Blackrock Inc,,13G,1716361.0,5.65,452410.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,JPMorgan Chase & Co,JPMorgan Chase & Co,13F,1145717.0,3.77,1003933.0,2025-12-31,Bank,United States,New York City/Southern CT/Northern NJ,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Advocacy Wealth Mana,Advocacy Wealth Mana,13F,741479.0,2.44,73484.0,2025-12-31,Investment Advisor,United States,Atlanta,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Pallas Capital Advis,Pallas Capital Advis,13F,559818.0,1.84,57503.0,2025-12-31,Investment Advisor,United States,Boston,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Inspirion Wealth Adv,Inspirion Wealth Adv,13F,499926.0,1.64,499926.0,2025-12-31,Investment Advisor,United States,Chicago,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Genstar Capital LLC,,ULT-AGG,456599.0,1.5,141110.0,2025-12-31,Private Equity,United States,San Francisco/San Jose,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,BBL Asset Management,,ULT-AGG,450322.0,1.48,0.0,2025-11-28,Investment Advisor,Thailand,Bangkok,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Bank of America Corp,Bank of America Corp,13F,400000.0,1.32,347446.0,2025-12-31,Bank,United States,Charlotte,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Betterment LLC,Betterment LLC,13F,324160.0,1.07,324160.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,MML Investors Servic,MML Investors Servic,13F,288270.0,0.95,92841.0,2025-12-31,Brokerage,United States,Hartford,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Bar Harbor Wealth Ma,Bar Harbor Wealth Ma,13F,285008.0,0.94,26051.0,2025-12-31,Investment Advisor,United States,Boston,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Vestmark Advisory So,Vestmark Advisory So,13F,280340.0,0.92,143012.0,2025-12-31,Investment Advisor,United States,Washington DC,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Landing Point Financ,Landing Point Financ,13F,270956.0,0.89,15235.0,2025-12-31,Investment Advisor,United States,Cleveland,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Goldstone Financial,Goldstone Financial,13F,264084.0,0.87,13063.0,2025-12-31,Investment Advisor,United States,Chicago,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Morgan Stanley,,ULT-AGG,247780.0,0.82,90982.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Ferguson Shapiro LLC,Ferguson Shapiro LLC,13F,235865.0,0.78,60084.0,2025-12-31,Investment Advisor,United States,Atlanta,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,AE Wealth Management,AE Wealth Management,13F,231742.0,0.76,16218.0,2025-12-31,Investment Advisor,United States,Kansas City,CLOA (iShares AAA CLO),CLOA
+CLOA US Equity,Cascade Wealth Advis,Cascade Wealth Advis,13F,226517.0,0.75,36026.0,2025-12-31,Investment Advisor,United States,Seattle,CLOA (iShares AAA CLO),CLOA
+CLOZ US Equity,Arax Advisory Partne,ARAX ADVISORY PARTNE,13F,2010327.0,6.96,-12565.0,2025-12-31,Investment Advisor,United States,Denver,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Eldridge Industries,,ULT-AGG,1625576.0,5.62,0.0,2025-12-31,Private Equity,United States,New York City/Southern CT/Northern NJ,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Focus Partners Wealt,Focus Partners Wealt,13F,1304334.0,4.51,1304334.0,2025-12-31,Hedge Fund Manager,United States,Boston,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Guardian Financial P,Guardian Financial P,13F,735819.0,2.55,-37602.0,2025-12-31,Investment Advisor,United States,Los Angeles/Pasadena,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Goldman Sachs Group,,ULT-AGG,603013.0,2.09,-824810.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,LPL Financial LLC,LPL Financial LLC,13F,583344.0,2.02,583344.0,2025-12-31,Brokerage,United States,Boston,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Jane Street Group LL,Jane Street Group LL,13F,530707.0,1.84,468085.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Black Swift Group LL,Black Swift Group LL,13F,394659.0,1.37,-231496.0,2025-12-31,Investment Advisor,United States,Denver,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Ocean Park Asset Man,Ocean Park Asset Man,13F,364527.0,1.26,-38800.0,2025-12-31,Investment Advisor,United States,San Francisco/San Jose,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Flow Traders US LLC,Flow Traders US LLC,13F,310113.0,1.07,150591.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,New Jersey Division,,ULT-AGG,300000.0,1.04,0.0,2025-12-31,Pension Fund,United States,Philadelphia,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Stifel Financial Cor,Stifel Financial Cor,13F,288558.0,1.0,77175.0,2025-12-31,Brokerage,United States,Saint Louis,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Gradient Investments,Gradient Investments,13F,285578.0,0.99,4914.0,2025-12-31,Investment Advisor,United States,Minneapolis/St. Paul,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Ball & Co Wealth Man,Ball & Co Wealth Man,13F,257290.0,0.89,-117302.0,2025-12-31,Investment Advisor,United States,Nashville,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Carmel Capital Partn,Carmel Capital Partn,13F,244829.0,0.85,33371.0,2025-12-31,Hedge Fund Manager,United States,San Diego,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Bienville Capital Ma,Bienville Capital Ma,13F,222201.0,0.77,1322.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Sound Income Strateg,Sound Income Strateg,13F,217449.0,0.75,73437.0,2025-12-31,Investment Advisor,United States,Miami,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Kestra Advisory Serv,Kestra Advisory Serv,13F,215176.0,0.74,-32807.0,2025-12-31,Investment Advisor,United States,Austin,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Tower Research Capit,Tower Research Capit,13F,201580.0,0.7,161051.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,CLOZ (Panagram BB-B CLO),CLOZ
+CLOZ US Equity,Bain Capital Private,,ULT-AGG,194156.0,0.67,-6819.0,2025-12-31,Private Equity,United States,Boston,CLOZ (Panagram BB-B CLO),CLOZ
+ICLO US Equity,LPL Financial LLC,LPL Financial LLC,13F,3384749.0,20.7,939632.0,2025-12-31,Brokerage,United States,Boston,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Invesco Ltd,,ULT-AGG,1609096.0,9.84,0.0,2026-01-30,Investment Advisor,United States,Atlanta,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Bank of New York Mel,,ULT-AGG,1100800.0,6.73,1563.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,ICLO (Invesco CLO),ICLO
+ICLO US Equity,AE Wealth Management,AE Wealth Management,13F,990873.0,6.06,44857.0,2025-12-31,Investment Advisor,United States,Kansas City,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Modern Wealth Manage,Modern Wealth Manage,13F,399906.0,2.45,6861.0,2025-12-31,Investment Advisor,United States,Kansas City,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Private Advisor Grou,Private Advisor Grou,13F,389848.0,2.38,94558.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Kingsview Wealth Man,Kingsview Wealth Man,13F,337345.0,2.06,-12516.0,2025-12-31,Investment Advisor,United States,Unclassified,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Flagship Harbor Advi,Flagship Harbor Advi,13F,306059.0,1.87,21944.0,2025-12-31,Investment Advisor,United States,Boston,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Rooted Wealth Adviso,Rooted Wealth Adviso,13F,241051.0,1.47,290.0,2025-12-31,Investment Advisor,United States,Chicago,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Wealth Enhancement G,,ULT-AGG,203793.0,1.25,-27810.0,2025-12-31,Holding Company,United States,Minneapolis/St. Paul,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Elevatus Wealth Mana,Elevatus Wealth Mana,13F,173450.0,1.06,125433.0,2025-12-31,Investment Advisor,United States,Rochester,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Arax Investment Part,Multiple Portfolios,MF-AGG,172736.0,1.06,32913.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Elm3 Financial Group,Elm3 Financial Group,13F,159783.0,0.98,-58603.0,2025-12-31,Investment Advisor,United States,Atlanta,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Ritholtz Wealth Mana,Ritholtz Wealth Mana,13F,156510.0,0.96,156510.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Garden State Investm,Garden State Investm,13F,142671.0,0.87,17485.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,ICLO (Invesco CLO),ICLO
+ICLO US Equity,ASL Financial LLC,ASL Financial LLC,13F,132828.0,0.81,132828.0,2025-12-31,Investment Advisor,United States,San Francisco/San Jose,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Connecticut Capital,Connecticut Capital,13F,130025.0,0.8,130025.0,2025-12-31,Investment Advisor,United States,Hartford,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Asset Allocation Str,Asset Allocation Str,13F,126439.0,0.77,9953.0,2025-12-31,Hedge Fund Manager,United States,Detroit,ICLO (Invesco CLO),ICLO
+ICLO US Equity,San Luis Wealth Advi,San Luis Wealth Advi,13F,110145.0,0.67,15407.0,2025-12-31,Investment Advisor,United States,Los Angeles/Pasadena,ICLO (Invesco CLO),ICLO
+ICLO US Equity,Colonial River Wealt,Colonial River Wealt,13F,106026.0,0.65,10897.0,2025-12-31,Investment Advisor,United States,Richmond,ICLO (Invesco CLO),ICLO
+CLOB US Equity,Independence Asset A,Independence Asset A,13F,895536.0,27.14,13508.0,2025-12-31,Hedge Fund Manager,United States,Philadelphia,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Darwin Wealth Manage,Darwin Wealth Manage,13F,159453.0,4.83,3119.0,2025-12-31,Investment Advisor,United States,Tampa,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Axxcess Wealth Manag,Axxcess Wealth Manag,13F,157803.0,4.78,157803.0,2025-12-31,Investment Advisor,United States,San Diego,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,L&S Advisors Inc,L&S Advisors Inc,13F,140445.0,4.26,107073.0,2025-12-31,Investment Advisor,United States,Los Angeles/Pasadena,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Employees Retirement,Employees Retirement,13F,39200.0,1.19,39200.0,2025-12-31,401k,United States,Dallas/Ft. Worth,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Castleview Partners,Castleview Partners,13F,29831.0,0.9,-11533.0,2025-12-31,Investment Advisor,United States,Dallas/Ft. Worth,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Bison Wealth LLC,BISON WEALTH LLC,13F,23199.0,0.7,23199.0,2025-09-30,Investment Advisor,United States,Atlanta,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Jane Street Group LL,Jane Street Group LL,13F,22571.0,0.68,-72847.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Syon Capital LLC,Syon Capital LLC,13F,16410.0,0.5,16410.0,2025-12-31,Investment Advisor,United States,San Francisco/San Jose,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Diversified Portfoli,Diversified Portfoli,13F,16326.0,0.49,16326.0,2025-12-31,Investment Advisor,United States,Detroit,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Royal Bank of Canada,,ULT-AGG,12004.0,0.36,-6433.0,2025-12-31,Bank,Canada,Toronto,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Summit Financial LLC,Summit Financial LLC,13F,9475.0,0.29,1622.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Osaic Holdings Inc,Osaic Holdings Inc,13F,7641.0,0.23,3140.0,2025-12-31,Investment Advisor,United States,Phoenix,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Ferguson Shapiro LLC,Ferguson Shapiro LLC,13F,7388.0,0.22,-2275.0,2025-12-31,Investment Advisor,United States,Atlanta,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Elequin Capital LP,Elequin Capital LP,13F,6963.0,0.21,-173.0,2025-12-31,Hedge Fund Manager,United States,New York City/Southern CT/Northern NJ,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Visionpoint Advisory,Visionpoint Advisory,13F,6429.0,0.19,-4465.0,2025-12-31,Investment Advisor,United States,Dallas/Ft. Worth,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Tower Research Capit,Tower Research Capit,13F,2639.0,0.08,2639.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,International Assets,International Assets,13F,845.0,0.03,845.0,2025-12-31,Investment Advisor,United States,Orlando,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Newedge Advisors Llc,Newedge Advisors Llc,13F,400.0,0.01,0.0,2025-12-31,Investment Advisor,United States,New Orleans,CLOB (Pgim BB-B CLO),CLOB
+CLOB US Equity,Basso Capital Manage,Basso Capital Manage,13F,185.0,0.01,0.0,2025-12-31,Hedge Fund Manager,United States,New York City/Southern CT/Northern NJ,CLOB (Pgim BB-B CLO),CLOB
+,Blackrock Inc,n/a,13G,1000000.0,66.67,0.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,BCLO (iShares BBB-B CLO),BCLO
+,Royal Bank of Canada,n/a,ULT-AGG,88436.0,5.9,88436.0,2025-12-31,Bank,Canada,Toronto,BCLO (iShares BBB-B CLO),BCLO
+,LPL Financial LLC,LPL Financial LLC,13F,38377.0,2.56,3196.0,2025-12-31,Brokerage,United States,Boston,BCLO (iShares BBB-B CLO),BCLO
+,Jane Street Group LL,Jane Street Group LL,13F,25051.0,1.67,-25988.0,2025-12-31,Brokerage,United States,New York City/Southern CT/Northern NJ,BCLO (iShares BBB-B CLO),BCLO
+,Syon Capital LLC,Syon Capital LLC,13F,16743.0,1.12,16743.0,2025-12-31,Investment Advisor,United States,San Francisco/San Jose,BCLO (iShares BBB-B CLO),BCLO
+,Wealth Enhancement G,n/a,ULT-AGG,15160.0,1.01,0.0,2025-12-31,Holding Company,United States,Minneapolis/St. Paul,BCLO (iShares BBB-B CLO),BCLO
+,Sunbelt Securities I,Sunbelt Securities I,13F,7304.0,0.49,2245.0,2025-12-31,Brokerage,United States,Houston,BCLO (iShares BBB-B CLO),BCLO
+,Elequin Capital LP,Elequin Capital LP,13F,863.0,0.06,0.0,2025-12-31,Hedge Fund Manager,United States,New York City/Southern CT/Northern NJ,BCLO (iShares BBB-B CLO),BCLO
+,UBS AG,n/a,ULT-AGG,14.0,0.0,14.0,2025-12-31,Investment Advisor,Switzerland,Zurich,BCLO (iShares BBB-B CLO),BCLO
+,Eldridge Industries,n/a,ULT-AGG,2258806.0,19.81,0.0,2025-12-31,Private Equity,United States,New York City/Southern CT/Northern NJ,CLOX (Panagram BBB-B CLO),CLOX
+,LPL Financial LLC,LPL Financial LLC,13F,640192.0,5.62,640192.0,2025-12-31,Brokerage,United States,Boston,CLOX (Panagram BBB-B CLO),CLOX
+,Spectrum Asset Manag,Spectrum Asset Manag,13F,545921.0,4.79,545921.0,2025-12-31,Investment Advisor,United States,Los Angeles/Pasadena,CLOX (Panagram BBB-B CLO),CLOX
+,Prospera Private Wea,Prospera Private Wea,13F,536031.0,4.7,536031.0,2025-12-31,Hedge Fund Manager,United States,Oklahoma City,CLOX (Panagram BBB-B CLO),CLOX
+,Ball & Co Wealth Man,Ball & Co Wealth Man,13F,264121.0,2.32,2640.0,2025-12-31,Investment Advisor,United States,Nashville,CLOX (Panagram BBB-B CLO),CLOX
+,Carmel Capital Partn,Carmel Capital Partn,13F,236314.0,2.07,63529.0,2025-12-31,Hedge Fund Manager,United States,San Diego,CLOX (Panagram BBB-B CLO),CLOX
+,Copia Wealth Managem,Copia Wealth Managem,13F,183609.0,1.61,60696.0,2025-12-31,Investment Advisor,United States,Portland (OR),CLOX (Panagram BBB-B CLO),CLOX
+,Arax Advisory Partne,ARAX ADVISORY PARTNE,13F,110414.0,0.97,-9876.0,2025-12-31,Investment Advisor,United States,Denver,CLOX (Panagram BBB-B CLO),CLOX
+,WMG Financial Adviso,WMG Financial Adviso,13F,104472.0,0.92,26212.0,2025-12-31,Investment Advisor,United States,Nashville,CLOX (Panagram BBB-B CLO),CLOX
+,Black Swift Group LL,Black Swift Group LL,13F,99305.0,0.87,-38595.0,2025-12-31,Investment Advisor,United States,Denver,CLOX (Panagram BBB-B CLO),CLOX
+,Inspire Advisors LLC,Inspire Advisors LLC,13F,92621.0,0.81,27233.0,2025-12-31,Investment Advisor,United States,San Francisco/San Jose,CLOX (Panagram BBB-B CLO),CLOX
+,Royal Bank of Canada,n/a,ULT-AGG,84261.0,0.74,-34132.0,2025-12-31,Bank,Canada,Toronto,CLOX (Panagram BBB-B CLO),CLOX
+,Fortis Group Advisor,Fortis Group Advisor,13F,54760.0,0.48,22378.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOX (Panagram BBB-B CLO),CLOX
+,Brookwood Investment,Brookwood Investment,13F,53643.0,0.47,53643.0,2025-12-31,Investment Advisor,United States,Phoenix,CLOX (Panagram BBB-B CLO),CLOX
+,Valeo Financial Advi,Valeo Financial Advi,13F,50000.0,0.44,0.0,2025-12-31,Investment Advisor,United States,Indianapolis,CLOX (Panagram BBB-B CLO),CLOX
+,Janney Montgomery Sc,Janney Montgomery Sc,13F,49515.0,0.43,49515.0,2025-12-31,Investment Advisor,United States,Philadelphia,CLOX (Panagram BBB-B CLO),CLOX
+,WESPAC Advisors LLC,WESPAC Advisors LLC,13F,48929.0,0.43,-5357.0,2025-12-31,Investment Advisor,United States,San Francisco/San Jose,CLOX (Panagram BBB-B CLO),CLOX
+,Goldman Sachs Group,n/a,ULT-AGG,32678.0,0.29,3123.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOX (Panagram BBB-B CLO),CLOX
+,JW Cole Advisors Inc,JW Cole Advisors Inc,13F,28553.0,0.25,-992.0,2025-12-31,Investment Advisor,United States,Tampa,CLOX (Panagram BBB-B CLO),CLOX
+,Griffin Asset Manage,Griffin Asset Manage,13F,26574.0,0.23,-6545.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLOX (Panagram BBB-B CLO),CLOX
+,Harel Group,n/a,ULT-AGG,3000000.0,14.03,3000000.0,2025-12-31,Insurance Company,Israel,Tel Aviv,CLIP (Global X CLO),CLIP
+,SEI Investments Co,n/a,ULT-AGG,1501021.0,7.02,19843.0,2025-12-31,Investment Advisor,United States,Philadelphia,CLIP (Global X CLO),CLIP
+,Bleakley Financial G,Bleakley Financial G,13F,906065.0,4.24,906065.0,2025-12-31,Investment Advisor,United States,New York City/Southern CT/Northern NJ,CLIP (Global X CLO),CLIP
+,LPL Financial LLC,LPL Financial LLC,13F,837428.0,3.92,-52034.0,2025-12-31,Brokerage,United States,Boston,CLIP (Global X CLO),CLIP
+,Capital Investment A,Capital Investment A,13F,719536.0,3.36,194179.0,2025-12-31,Investment Advisor,United States,Atlanta,CLIP (Global X CLO),CLIP
+,Daiwa Securities Gro,n/a,ULT-AGG,703755.0,3.29,0.0,2026-02-24,Brokerage,Japan,Tokyo,CLIP (Global X CLO),CLIP
+,RHL Group LLC,RHL Group LLC,13F,634197.0,2.96,634197.0,2025-12-31,Investment Advisor,United States,Detroit,CLIP (Global X CLO),CLIP
+,Mirae Asset Financia,n/a,ULT-AGG,369060.0,1.73,-92639.0,2025-12-31,Investment Advisor,Hong Kong,Seoul,CLIP (Global X CLO),CLIP
+,Advisor Os LLC,Advisor Os LLC,13F,355079.0,1.66,-54822.0,2025-12-31,Investment Advisor,United States,Chicago,CLIP (Global X CLO),CLIP
+,MJP Associates Inc,MJP Associates Inc,13F,355079.0,1.66,-45131.0,2025-12-31,Investment Advisor,United States,Hartford,CLIP (Global X CLO),CLIP
+,Accurate Wealth Mana,Accurate Wealth Mana,13F,314872.0,1.47,-74381.0,2025-12-31,Investment Advisor,United States,Tampa,CLIP (Global X CLO),CLIP
+,49 Wealth Management,49 Wealth Management,13F,303414.0,1.42,-164317.0,2025-12-31,Investment Advisor,United States,Austin,CLIP (Global X CLO),CLIP
+,3EDGE Asset Manageme,3EDGE Asset Manageme,13F,263152.0,1.23,218102.0,2025-12-31,Investment Advisor,United States,Boston,CLIP (Global X CLO),CLIP
+,Peterson Wealth Advi,Peterson Wealth Advi,13F,244204.0,1.14,21374.0,2025-12-31,Investment Advisor,United States,Salt Lake City,CLIP (Global X CLO),CLIP
+,Pacific Sage Partner,Pacific Sage Partner,13F,136611.0,0.64,21504.0,2025-12-31,Investment Advisor,United States,Seattle,CLIP (Global X CLO),CLIP
+,Verus Capital Partne,Verus Capital Partne,13F,117350.0,0.55,30300.0,2025-12-31,Investment Advisor,United States,Phoenix,CLIP (Global X CLO),CLIP
+,Curtis Advisory Grou,CURTIS ADVISORY GROU,13F,117186.0,0.55,29277.0,2025-12-31,Investment Advisor,United States,Los Angeles/Pasadena,CLIP (Global X CLO),CLIP
+,Wealth Enhancement G,n/a,ULT-AGG,117139.0,0.55,10680.0,2025-12-31,Holding Company,United States,Minneapolis/St. Paul,CLIP (Global X CLO),CLIP
+,ApS Management Group,ApS Management Group,13F,116449.0,0.54,-7137.0,2025-12-31,Investment Advisor,United States,Los Angeles/Pasadena,CLIP (Global X CLO),CLIP
+,Guild Investment Man,Guild Investment Man,13F,112465.0,0.53,8010.0,2025-12-31,Investment Advisor,United States,Los Angeles/Pasadena,CLIP (Global X CLO),CLIP

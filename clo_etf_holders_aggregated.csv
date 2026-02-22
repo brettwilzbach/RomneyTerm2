@@ -1,0 +1,143 @@
+holder_name,total_shares,num_etfs,etfs_held,institution_type,country,metro
+Bank of America Corp,30577764.0,2,"CLOA, JAAA",Bank,United States,Charlotte
+Allianz SE,26360832.0,1,JAAA,Investment Advisor,Germany,Munich
+Allianz Investment M,25923332.0,1,JAAA,Investment Advisor,United States,Minneapolis/St. Paul
+Teachers Insurance &,23706000.0,1,JAAA,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+LPL Financial LLC,23498454.0,9,"BCLO, CLIP, CLOA, CLOI, CLOX, CLOZ, ICLO, JAAA, JBBB",Brokerage,United States,Boston
+Morgan Stanley,20863790.0,2,"CLOA, JAAA",Brokerage,United States,New York City/Southern CT/Northern NJ
+Focus Partners Wealt,9533218.0,2,"CLOZ, JAAA",Hedge Fund Manager,United States,Boston
+Bain Capital Private,9289616.0,4,"CLOA, CLOZ, JAAA, JBBB",Private Equity,United States,Boston
+Wells Fargo & Co,7457715.0,1,JAAA,Bank,United States,San Francisco/San Jose
+Raymond James Financ,6915950.0,1,JAAA,Investment Advisor,United States,Tampa
+UBS AG,6869313.0,3,"BCLO, JAAA, JBBB",Investment Advisor,Switzerland,Zurich
+Massachusetts Mutual,6000000.0,1,JAAA,Insurance Company,United States,Hartford
+Barings LLC,6000000.0,1,JAAA,Investment Advisor,United States,Boston
+Genstar Capital LLC,5307464.0,2,"CLOA, JAAA",Private Equity,United States,San Francisco/San Jose
+Goldman Sachs Group,5202137.0,5,"CLOI, CLOX, CLOZ, JAAA, JBBB",Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Sage Mountain Adviso,5018296.0,1,JAAA,Investment Advisor,United States,Atlanta
+Royal Bank of Canada,4877387.0,5,"AAA, BCLO, CLOB, CLOX, JAAA",Bank,Canada,Toronto
+HighTower Advisors L,4461540.0,2,"CLOI, JAAA",Investment Advisor,United States,Chicago
+Arch Capital Group L,3941665.0,1,JAAA,Insurance Company,Bermuda,Hamilton
+Eldridge Industries,3884382.0,2,"CLOX, CLOZ",Private Equity,United States,New York City/Southern CT/Northern NJ
+Charles Schwab Corp/,3712944.0,1,JAAA,Brokerage,United States,San Francisco/San Jose
+Harel Group,3000000.0,1,CLIP,Insurance Company,Israel,Tel Aviv
+Blackrock Inc,2716361.0,2,"BCLO, CLOA",Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Independence Asset A,2485455.0,2,"CLOB, CLOI",Hedge Fund Manager,United States,Philadelphia
+Capital Investment A,2283268.0,2,"CLIP, CLOI",Investment Advisor,United States,Atlanta
+Arax Advisory Partne,2120741.0,2,"CLOX, CLOZ",Investment Advisor,United States,Denver
+AE Wealth Management,1678399.0,4,"CLOA, CLOI, ICLO, JBBB",Investment Advisor,United States,Kansas City
+Invesco Ltd,1609096.0,1,ICLO,Investment Advisor,United States,Atlanta
+JPMorgan Chase & Co,1556273.0,2,"CLOA, JBBB",Bank,United States,New York City/Southern CT/Northern NJ
+SEI Investments Co,1501021.0,1,CLIP,Investment Advisor,United States,Philadelphia
+Jane Street Group LL,1111856.0,5,"AAA, BCLO, CLOB, CLOZ, JBBB",Brokerage,United States,New York City/Southern CT/Northern NJ
+Bank of New York Mel,1100800.0,1,ICLO,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Pallas Capital Advis,1041379.0,2,"CLOA, JBBB",Investment Advisor,United States,Boston
+Bleakley Financial G,906065.0,1,CLIP,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Advocacy Wealth Mana,741479.0,1,CLOA,Investment Advisor,United States,Atlanta
+Guardian Financial P,735819.0,1,CLOZ,Investment Advisor,United States,Los Angeles/Pasadena
+Daiwa Securities Gro,703755.0,1,CLIP,Brokerage,Japan,Tokyo
+Syon Capital LLC,701243.0,3,"BCLO, CLOB, CLOI",Investment Advisor,United States,San Francisco/San Jose
+RHL Group LLC,634197.0,1,CLIP,Investment Advisor,United States,Detroit
+Wealth Enhancement G,626195.0,4,"BCLO, CLIP, ICLO, JBBB",Holding Company,United States,Minneapolis/St. Paul
+Orion Portfolio Solu,607560.0,1,CLOI,Investment Advisor,United States,Omaha
+Gradient Investments,552970.0,2,"CLOI, CLOZ",Investment Advisor,United States,Minneapolis/St. Paul
+Spectrum Asset Manag,545921.0,1,CLOX,Investment Advisor,United States,Los Angeles/Pasadena
+Pathstone Holdings L,537351.0,1,JBBB,Hedge Fund Manager,United States,New York City/Southern CT/Northern NJ
+Prospera Private Wea,536031.0,1,CLOX,Hedge Fund Manager,United States,Oklahoma City
+Ball & Co Wealth Man,521411.0,2,"CLOX, CLOZ",Investment Advisor,United States,Nashville
+Inspirion Wealth Adv,499926.0,1,CLOA,Investment Advisor,United States,Chicago
+Black Swift Group LL,493964.0,2,"CLOX, CLOZ",Investment Advisor,United States,Denver
+MML Investors Servic,482435.0,2,"CLOA, CLOI",Brokerage,United States,Hartford
+Carmel Capital Partn,481143.0,2,"CLOX, CLOZ",Hedge Fund Manager,United States,San Diego
+BBL Asset Management,450322.0,1,CLOA,Investment Advisor,Thailand,Bangkok
+Darwin Wealth Manage,418726.0,2,"CLOB, CLOI",Investment Advisor,United States,Tampa
+Axxcess Wealth Manag,413451.0,2,"CLOB, CLOI",Investment Advisor,United States,San Diego
+Modern Wealth Manage,399906.0,1,ICLO,Investment Advisor,United States,Kansas City
+Private Advisor Grou,389848.0,1,ICLO,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Mirae Asset Financia,369060.0,1,CLIP,Investment Advisor,Hong Kong,Seoul
+Ocean Park Asset Man,364527.0,1,CLOZ,Investment Advisor,United States,San Francisco/San Jose
+SAX Wealth Advisors,362439.0,1,CLOI,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+True Private Wealth,357729.0,1,CLOI,Investment Advisor,United States,Portland (OR)
+Advisor Os LLC,355079.0,1,CLIP,Investment Advisor,United States,Chicago
+MJP Associates Inc,355079.0,1,CLIP,Investment Advisor,United States,Hartford
+Kingsview Wealth Man,337345.0,1,ICLO,Investment Advisor,United States,Unclassified
+Betterment LLC,324160.0,1,CLOA,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Accurate Wealth Mana,314872.0,1,CLIP,Investment Advisor,United States,Tampa
+Flow Traders US LLC,310113.0,2,"AAA, CLOZ",Brokerage,United States,New York City/Southern CT/Northern NJ
+Flagship Harbor Advi,306059.0,1,ICLO,Investment Advisor,United States,Boston
+49 Wealth Management,303414.0,1,CLIP,Investment Advisor,United States,Austin
+New Jersey Division,300000.0,1,CLOZ,Pension Fund,United States,Philadelphia
+Stifel Financial Cor,288558.0,1,CLOZ,Brokerage,United States,Saint Louis
+TT Capital Managemen,287529.0,1,JBBB,Investment Advisor,United States,San Diego
+Bar Harbor Wealth Ma,285008.0,1,CLOA,Investment Advisor,United States,Boston
+WealthPlan Investmen,282187.0,1,CLOI,Investment Advisor,United States,Omaha
+RWM Asset Management,280791.0,1,JBBB,Investment Advisor,United States,Orlando
+Vestmark Advisory So,280340.0,1,CLOA,Investment Advisor,United States,Washington DC
+Deseret Mutual Benef,277556.0,1,CLOI,Insurance Company,United States,Salt Lake City
+Landing Point Financ,270956.0,1,CLOA,Investment Advisor,United States,Cleveland
+Employees Retirement,265800.0,2,"CLOB, CLOI",401k,United States,Dallas/Ft. Worth
+Goldstone Financial,264084.0,1,CLOA,Investment Advisor,United States,Chicago
+3EDGE Asset Manageme,263152.0,1,CLIP,Investment Advisor,United States,Boston
+EPIQ Partners LLC,253957.0,1,JBBB,Investment Advisor,United States,Minneapolis/St. Paul
+Peterson Wealth Advi,244204.0,1,CLIP,Investment Advisor,United States,Salt Lake City
+Ferguson Shapiro LLC,243253.0,2,"CLOA, CLOB",Investment Advisor,United States,Atlanta
+Rooted Wealth Adviso,241051.0,1,ICLO,Investment Advisor,United States,Chicago
+Moneta Group Investm,229940.0,1,CLOI,Investment Advisor,United States,Saint Louis
+Cascade Wealth Advis,226517.0,1,CLOA,Investment Advisor,United States,Seattle
+Bienville Capital Ma,222201.0,1,CLOZ,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Sound Income Strateg,217449.0,1,CLOZ,Investment Advisor,United States,Miami
+Kestra Advisory Serv,215176.0,1,CLOZ,Investment Advisor,United States,Austin
+Cambridge Investment,213390.0,2,"AAA, CLOI",Brokerage,United States,Unclassified
+TLP Associates LLC,205946.0,1,CLOI,Hedge Fund Manager,United States,Boston
+Tower Research Capit,204219.0,2,"CLOB, CLOZ",Brokerage,United States,New York City/Southern CT/Northern NJ
+Border to Coast Pens,200000.0,1,JBBB,Pension Fund,United Kingdom,Manchester
+Sanctuary Advisors L,193508.0,1,JBBB,Investment Advisor,United States,Indianapolis
+Ameriprise Financial,189578.0,1,JBBB,Insurance Company,United States,Unclassified
+Summit Financial LLC,185654.0,2,"CLOB, JBBB",Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Copia Wealth Managem,183609.0,1,CLOX,Investment Advisor,United States,Portland (OR)
+WT Wealth Management,181605.0,1,JBBB,Investment Advisor,United States,Unclassified
+Elevatus Wealth Mana,173450.0,1,ICLO,Investment Advisor,United States,Rochester
+Arax Investment Part,172736.0,1,ICLO,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Elm3 Financial Group,159783.0,1,ICLO,Investment Advisor,United States,Atlanta
+Ritholtz Wealth Mana,156510.0,1,ICLO,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Nilsine Partners LLC,153226.0,1,JBBB,Investment Advisor,United States,Denver
+Cachetech Inc,152080.0,1,JBBB,Investment Advisor,United States,Salt Lake City
+Garden State Investm,142671.0,1,ICLO,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+L&S Advisors Inc,140445.0,1,CLOB,Investment Advisor,United States,Los Angeles/Pasadena
+Pacific Sage Partner,136611.0,1,CLIP,Investment Advisor,United States,Seattle
+ASL Financial LLC,132828.0,1,ICLO,Investment Advisor,United States,San Francisco/San Jose
+Connecticut Capital,130025.0,1,ICLO,Investment Advisor,United States,Hartford
+Asset Allocation Str,126439.0,1,ICLO,Hedge Fund Manager,United States,Detroit
+Verus Capital Partne,117350.0,1,CLIP,Investment Advisor,United States,Phoenix
+Curtis Advisory Grou,117186.0,1,CLIP,Investment Advisor,United States,Los Angeles/Pasadena
+ApS Management Group,116449.0,1,CLIP,Investment Advisor,United States,Los Angeles/Pasadena
+Guild Investment Man,112465.0,1,CLIP,Investment Advisor,United States,Los Angeles/Pasadena
+San Luis Wealth Advi,110145.0,1,ICLO,Investment Advisor,United States,Los Angeles/Pasadena
+Colonial River Wealt,106026.0,1,ICLO,Investment Advisor,United States,Richmond
+WMG Financial Adviso,104472.0,1,CLOX,Investment Advisor,United States,Nashville
+Inspire Advisors LLC,92621.0,1,CLOX,Investment Advisor,United States,San Francisco/San Jose
+Fortis Group Advisor,54760.0,1,CLOX,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Brookwood Investment,53643.0,1,CLOX,Investment Advisor,United States,Phoenix
+Valeo Financial Advi,50000.0,1,CLOX,Investment Advisor,United States,Indianapolis
+Janney Montgomery Sc,49515.0,1,CLOX,Investment Advisor,United States,Philadelphia
+WESPAC Advisors LLC,48929.0,1,CLOX,Investment Advisor,United States,San Francisco/San Jose
+Castleview Partners,29831.0,1,CLOB,Investment Advisor,United States,Dallas/Ft. Worth
+JW Cole Advisors Inc,28553.0,1,CLOX,Investment Advisor,United States,Tampa
+Griffin Asset Manage,26574.0,1,CLOX,Investment Advisor,United States,New York City/Southern CT/Northern NJ
+Bison Wealth LLC,23199.0,1,CLOB,Investment Advisor,United States,Atlanta
+Philadelphia Financi,23137.0,1,AAA,Insurance Company,United States,Philadelphia
+Legacy Capital Group,20670.0,1,AAA,Investment Advisor,United States,San Francisco/San Jose
+Diversified Portfoli,16326.0,1,CLOB,Investment Advisor,United States,Detroit
+Procyon Advisors LLC,12980.0,1,AAA,Investment Advisor,United States,Hartford
+Elequin Capital LP,7826.0,2,"BCLO, CLOB",Hedge Fund Manager,United States,New York City/Southern CT/Northern NJ
+Osaic Holdings Inc,7641.0,2,"AAA, CLOB",Investment Advisor,United States,Phoenix
+Sunbelt Securities I,7304.0,1,BCLO,Brokerage,United States,Houston
+Visionpoint Advisory,6429.0,1,CLOB,Investment Advisor,United States,Dallas/Ft. Worth
+International Assets,4435.0,2,"AAA, CLOB",Investment Advisor,United States,Orlando
+Corecap Advisors LLC,2173.0,1,AAA,Investment Advisor,United States,Detroit
+BERRY ROCK INS CO,500.0,1,AAA,Insurance Company,United States,Oklahoma City
+Newedge Advisors Llc,400.0,1,CLOB,Investment Advisor,United States,New Orleans
+Basso Capital Manage,185.0,1,CLOB,Hedge Fund Manager,United States,New York City/Southern CT/Northern NJ
+Aptus Capital Adviso,0.0,1,AAA,Investment Advisor,United States,Unclassified
+Harbour Investments,0.0,1,AAA,Brokerage,United States,Milwaukee/Madison
+Citadel Advisors LLC,0.0,1,AAA,Hedge Fund Manager,United States,Chicago
