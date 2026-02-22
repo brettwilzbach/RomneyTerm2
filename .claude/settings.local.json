@@ -18,7 +18,11 @@
       "WebFetch(domain:clozfund.com)",
       "WebFetch(domain:www.arrowmarkpartners.com)",
       "Bash(pip install:*)",
-      "Bash(python -c:*)"
+      "Bash(python -c:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git status:*)"
     ]
   }
 }
