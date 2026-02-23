@@ -359,6 +359,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans
       <div class="toggle-group" id="peerToggle">
         <button class="toggle-btn active" data-view="table">Table</button>
         <button class="toggle-btn" data-view="scatter">Risk-Return</button>
+        <button class="toggle-btn" data-view="activity">Peer Activity</button>
       </div>
     </div>
   </div>
@@ -367,6 +368,19 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans
     <div id="peer-view-scatter" style="display:none">
       <div id="peerScatterChart"></div>
       <p style="font-size:9px;color:var(--slate);text-align:center;margin-top:8px" id="scatterPeriodNote">Annualized return vs. annualized volatility, May 2013&ndash;Jan 2026. Monthly returns compounded from With Intelligence and HFR databases.</p>
+    </div>
+    <div id="peer-view-activity" style="display:none">
+      <p style="font-size:11px;color:var(--text-light);margin-bottom:12px;line-height:1.6">Structured credit peers are expanding distribution into wealth platforms and insurance SMAs. The window to establish shelf presence is narrowing.</p>
+      <table class="peer-table">
+        <thead><tr><th>Peer</th><th>AUM</th><th>Distribution Move</th><th>Signal</th></tr></thead>
+        <tbody>
+          <tr><td>Sound Point Capital</td><td>$45B</td><td>Joined CAIS for wealth channel access (Dec 2025)</td><td>$45B manager validated wealth distribution</td></tr>
+          <tr><td>Axonic Capital</td><td>$6.2B</td><td>On CAIS with structured credit strategies</td><td>Pure-play SC competitor already on platform</td></tr>
+          <tr><td>Ellington Management</td><td>$14B</td><td>Scaling insurance SMA capabilities; hired dedicated insurance solutions team</td><td>Insurance SMA playbook being built in real time</td></tr>
+          <tr><td>Blackstone / KKR / Apollo</td><td>$1T+</td><td>All on CAIS + iCapital with interval funds selling &ldquo;total credit&rdquo;</td><td>Mega-platforms own brand, not SC expertise</td></tr>
+        </tbody>
+      </table>
+      <p style="font-size:9px;color:var(--slate);margin-top:12px">Sources: BusinessWire (Sound Point/CAIS, Dec 2025), CAIS platform listings, Pensions &amp; Investments</p>
     </div>
   </div>
   <div style="margin-top:16px" id="peerSummaryBar">
@@ -1076,6 +1090,7 @@ document.getElementById('peerToggle').addEventListener('click',e=>{
   const v=e.target.dataset.view;
   document.getElementById('peer-view-table').style.display=v==='table'?'':'none';
   document.getElementById('peer-view-scatter').style.display=v==='scatter'?'':'none';
+  document.getElementById('peer-view-activity').style.display=v==='activity'?'':'none';
   if(v==='scatter')renderPeerScatter();
 });
 
