@@ -117,6 +117,8 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans
 
 .catalyst-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 .catalyst-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:20px;position:relative;overflow:hidden}
+details[open] summary svg{transform:rotate(90deg)}
+details summary::-webkit-details-marker{display:none}
 .catalyst-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px}
 .catalyst-card:nth-child(1)::before{background:var(--gold)}
 .catalyst-card:nth-child(2)::before{background:var(--accent)}
@@ -359,7 +361,6 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans
       <div class="toggle-group" id="peerToggle">
         <button class="toggle-btn active" data-view="table">Table</button>
         <button class="toggle-btn" data-view="scatter">Risk-Return</button>
-        <button class="toggle-btn" data-view="activity">Peer Activity</button>
       </div>
     </div>
   </div>
@@ -369,18 +370,7 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans
       <div id="peerScatterChart"></div>
       <p style="font-size:9px;color:var(--slate);text-align:center;margin-top:8px" id="scatterPeriodNote">Annualized return vs. annualized volatility, May 2013&ndash;Jan 2026. Monthly returns compounded from With Intelligence and HFR databases.</p>
     </div>
-    <div id="peer-view-activity" style="display:none">
-      <p style="font-size:11px;color:var(--text-light);margin-bottom:12px;line-height:1.6">Structured credit peers are expanding distribution into wealth platforms and insurance SMAs. The window to establish shelf presence is narrowing.</p>
-      <table class="peer-table">
-        <thead><tr><th>Peer</th><th>AUM</th><th>Distribution Move</th><th>Signal</th></tr></thead>
-        <tbody>
-          <tr><td>Sound Point Capital</td><td>$45B</td><td>Joined CAIS for wealth channel access (Dec 2025)</td><td>$45B manager validated wealth distribution</td></tr>
-          <tr><td>Axonic Capital</td><td>$6.2B</td><td>On CAIS with structured credit strategies</td><td>Pure-play SC competitor already on platform</td></tr>
-          <tr><td>Ellington Management</td><td>$14B</td><td>Scaling insurance SMA capabilities; hired dedicated insurance solutions team</td><td>Insurance SMA playbook being built in real time</td></tr>
-        </tbody>
-      </table>
-      <p style="font-size:9px;color:var(--slate);margin-top:12px">Sources: BusinessWire (Sound Point/CAIS, Dec 2025), CAIS platform listings, Pensions &amp; Investments</p>
-    </div>
+    <div id="peer-view-activity" style="display:none"></div>
   </div>
   <div style="margin-top:16px" id="peerSummaryBar">
     <div class="card" style="display:flex;gap:24px;align-items:center;padding:16px 20px">
@@ -388,6 +378,25 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans
       <div style="flex:1"><p style="font-size:9px;color:var(--slate);text-transform:uppercase;letter-spacing:1px;margin-bottom:4px">vs. Peer Median</p><p style="font-size:24px;font-weight:800;color:var(--navy)" id="peerMedBps">+297 bps</p><p style="font-size:9px;color:var(--slate)" id="peerMedNote">Median peer: 5.6% annualized</p></div>
     </div>
   </div>
+  <details style="margin-top:16px">
+    <summary style="cursor:pointer;font-size:11px;font-weight:600;color:var(--navy);padding:12px 16px;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);list-style:none;display:flex;align-items:center;gap:8px">
+      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="transition:transform 0.2s"><polyline points="4,2 8,6 4,10"/></svg>
+      Peer Distribution Activity
+    </summary>
+    <div class="card" style="margin-top:8px;padding:16px 20px">
+      <p style="font-size:11px;color:var(--text-light);margin-bottom:12px;line-height:1.6">Structured credit peers are expanding distribution into wealth platforms and insurance SMAs. The window to establish shelf presence is narrowing.</p>
+      <table class="peer-table">
+        <thead><tr><th>Peer</th><th>Distribution Activity</th></tr></thead>
+        <tbody>
+          <tr><td style="white-space:nowrap;font-weight:600">Sound Point</td><td>Joined CAIS Dec 2025 to access wealth channel. Manages structured credit for pensions, insurance companies, and family offices.</td></tr>
+          <tr><td style="white-space:nowrap;font-weight:600">Axonic</td><td>On CAIS with structured credit strategies. Registered mutual fund (AXSIX) distributed through ALPS Distributors.</td></tr>
+          <tr><td style="white-space:nowrap;font-weight:600">Ellington</td><td>Built dedicated Insurance Solutions group with senior leadership hires. Publishing white papers targeting insurance allocators. Firm grew from ~$8.5B to ~$15B in three years with insurance SMAs as a key growth driver.</td></tr>
+          <tr><td style="white-space:nowrap;font-weight:600">Waterfall</td><td>Launched dedicated insurance asset management team in 2023. Hired senior MD from Pretium to build insurance SMA mandates. Presenting at CAIS Summit.</td></tr>
+        </tbody>
+      </table>
+      <p style="font-size:9px;color:var(--slate);margin-top:12px">Sources: BusinessWire, CAIS platform listings, Pensions &amp; Investments, SEC filings</p>
+    </div>
+  </details>
 </section>
 
 <section class="section" id="why-now">
