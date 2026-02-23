@@ -362,9 +362,6 @@ body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans
       </div>
     </div>
   </div>
-  <div style="padding:16px 20px 0;margin-bottom:-4px">
-    <p style="font-size:11px;color:var(--text-light);line-height:1.7;border-left:3px solid var(--navy);padding-left:16px"><span style="font-weight:700;color:var(--navy)">Why 83 managers:</span> The largest 20% of CLO managers have tracked the index within 140bps over 14 years. The index is returning 5-6% annually. So if you&rsquo;re buying CLO exposure through an ETF or a single-manager fund, you&rsquo;re getting index returns at best. The question is whether there&rsquo;s a way to capture the dispersion between the other 80% of managers, where the return range is 180bps wide and the drawdown risk is real. That&rsquo;s what manager selection is. That&rsquo;s what we do across 83 managers.</p>
-  </div>
   <div class="card" style="padding:16px 20px;overflow-x:auto">
     <div id="peer-view-table"></div>
     <div id="peer-view-scatter" style="display:none">
@@ -831,6 +828,7 @@ const peerScatterHzData={
     funds:[
       {name:'Bain Capital SCF',x:9.50,y:8.60,highlight:true},
       {name:'Beach Point',x:4.42,y:7.01},
+      {name:'Altum Credit',x:9.11,y:7.66},
       {name:'Waterfall Eden',x:6.01,y:6.87},
       {name:'400 Capital',x:6.96,y:6.46},
       {name:'Ellington Credit',x:5.42,y:5.79},
@@ -849,6 +847,7 @@ const peerScatterHzData={
     funds:[
       {name:'Bain Capital SCF',x:11.2,y:10.6,highlight:true},
       {name:'Beach Point',x:5.1,y:8.4},
+      {name:'Altum Credit',x:6.5,y:6.9},
       {name:'Waterfall Eden',x:6.8,y:7.9},
       {name:'400 Capital',x:7.8,y:7.6},
       {name:'Ellington Credit',x:6.2,y:6.8},
@@ -867,6 +866,7 @@ const peerScatterHzData={
     funds:[
       {name:'Bain Capital SCF',x:12.5,y:19.8,highlight:true},
       {name:'Beach Point',x:5.8,y:11.2},
+      {name:'Altum Credit',x:4.7,y:10.6},
       {name:'Waterfall Eden',x:7.5,y:10.5},
       {name:'400 Capital',x:8.5,y:9.8},
       {name:'Ellington Credit',x:7.0,y:9.1},
@@ -913,6 +913,7 @@ function renderPeerScatter(){
     'Marathon':[10,14,'start'],
     'Ellington Credit':[10,-8,'start'],
     'Axonic':[0,16,'middle'],
+    'Altum Credit':[10,-8,'start'],
     'WI SC Index':[10,-8,'start'],
     'HFRI 500 RV FI-AB':[0,-10,'middle'],
     'Beach Point':[0,-10,'middle'],
@@ -960,6 +961,7 @@ const peerHorizonData={
     title:'Highest Annualized Return in the Peer Set',
     funds:[
       {name:'Bain Capital SCF',ann:8.60,tot:155.0,aum:4000,hl:true},
+      {name:'Altum Credit Master Fund',ann:7.66,tot:156.3,aum:null},
       {name:'Beach Point Securitized Credit',ann:7.01,tot:104.9,aum:868},
       {name:'Waterfall Eden Fund LP',ann:6.87,tot:133.3,aum:1839},
       {name:'400 Capital Credit Opportunities',ann:6.46,tot:122.2,aum:2039},
@@ -981,6 +983,7 @@ const peerHorizonData={
     funds:[
       {name:'Bain Capital SCF',ann:10.6,tot:65.3,aum:4000,hl:true},
       {name:'Beach Point Securitized Credit',ann:8.4,tot:49.8,aum:868},
+      {name:'Altum Credit Master Fund',ann:6.9,tot:40.1,aum:null},
       {name:'Waterfall Eden Fund LP',ann:7.9,tot:46.2,aum:1839},
       {name:'400 Capital Credit Opportunities',ann:7.6,tot:44.1,aum:2039},
       {name:'Ellington Credit Opportunities',ann:6.8,tot:38.9,aum:174},
@@ -1001,6 +1004,7 @@ const peerHorizonData={
     funds:[
       {name:'Bain Capital SCF',ann:19.8,tot:71.6,aum:4000,hl:true},
       {name:'Beach Point Securitized Credit',ann:11.2,tot:37.7,aum:868},
+      {name:'Altum Credit Master Fund',ann:10.6,tot:36.4,aum:null},
       {name:'Waterfall Eden Fund LP',ann:10.5,tot:35.0,aum:1839},
       {name:'400 Capital Credit Opportunities',ann:9.8,tot:32.3,aum:2039},
       {name:'Ellington Credit Opportunities',ann:9.1,tot:29.8,aum:174},
